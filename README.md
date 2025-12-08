@@ -2,6 +2,7 @@
 Implementation of French prospective scenarios from RTE study "Futurs énergétiques 2050" 
 into ecoinvent database with premise
 
+A scientific publication related to this repository is in progress. Expected submission in Semester 1 2026 :)
 
 What does this repository do ?
 -----------
