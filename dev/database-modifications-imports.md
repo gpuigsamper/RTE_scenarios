@@ -120,6 +120,9 @@ selected_db_list
 #selected_db_list=[selected_db_list[2]]
 ```
 
+### Change input mix from storage
+
+
 # Database modification : Run only once
 
 
@@ -140,7 +143,7 @@ selected_db_list
 with_EUR_imports="yes" 
 #if I want to create french markets with imports from european mix taken from other IAM
 #!!!!!!!!!!!!! If several imports EUR, only one database !!
-with_EUR_imports_severals="yes" 
+with_EUR_imports_severals="no" 
 #db_import_list is the list from where imports come from with_EUR_imports_severals="yes"
 db_import_list_severals=[premise_db_list[0]]+[premise_db_list[1]]+[premise_db_list[2]]
 db_import_list_severals
